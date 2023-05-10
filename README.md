@@ -3,6 +3,5 @@
   <g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png"> ✨</g-emoji> Welcome to my Github Profile  ✨</g-emoji> </h2>
 
 <p <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji> I'm a Frontend Developer. <br>
-🌱 I’m currently learning Java-Script and React.
+🌱 I’m currently learning Java-Script and React. <br>
 📫 How to reach me: <u>nuray52707@gmail.com<u>
-p>
