@@ -8,12 +8,12 @@
 
 <p <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji> I'm a Frontend Developer. <br><br>
 🌱 I’m currently learning Java-Script and React. <br> <br>
-📫 How to reach me: <u>nuray52707@gmail.com<u>
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/nuray-g%C3%B6nc%C3%BC-686385120/)]
   
   
  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/html-original.svg"  width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/css-original.svg"  width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </p>
