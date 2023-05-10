@@ -8,7 +8,7 @@
 
 <p <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji> I'm a Frontend Developer. <br><br>
 🌱 I’m currently learning Java-Script and React. <br> <br>
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/nuray-g%C3%B6nc%C3%BC-686385120/)]
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nuray-g%C3%B6nc%C3%BC-686385120/)
   
   
  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
