@@ -23,8 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40">
-  <img src="https://www.flaticon.com/free-icon/excel_888850?related_id=888900&origin=search" alt="Excel" width="40" height="40">
- <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI Logo" style="width:150px;height:160px;">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Excel-Workbook.svg alt="Excel" width="40" height="40">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
