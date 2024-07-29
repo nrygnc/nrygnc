@@ -11,8 +11,7 @@
 <p <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji> I'm a First Developer. <br><br>
 🌱 I’m currently learning AI Technologies and Data Sciences. <br> <br>
 
-📫 How to reach me: [www.linkedin.com/in/
-nuray-goncu-686385120](https://www.linkedin.com/in/nuray-goncu-686385120/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nuray-goncu-686385120/)
 
   
   
@@ -20,12 +19,13 @@ nuray-goncu-686385120](https://www.linkedin.com/in/nuray-goncu-686385120/)
 <p class="card" align="left" display="flex" justify-content: center; align-items: center;>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" alt="SPSS" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoft/microsoft-sql-server-original.svg" alt="MSSQL" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40">
+  <img src="[https://www.flaticon.com/free-icon/excel_888850?related_id=888900&origin=search]" alt="Excel" width="40" height="40">
+  
+  <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
