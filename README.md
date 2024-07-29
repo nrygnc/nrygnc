@@ -11,7 +11,7 @@
 <p <g-emoji class="g-emoji" alias="balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f388.png">🎈</g-emoji> I'm a First Developer. <br><br>
 🌱 I’m currently learning AI Technologies and Data Sciences. <br> <br>
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nuray-goncu-686385120/)
+📫 How to reach me: [👩🏼‍💻](https://www.linkedin.com/in/nuray-goncu-686385120/)
 
   
   
@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40">
-  <img src="[https://www.flaticon.com/free-icon/excel_888850?related_id=888900&origin=search]" alt="Excel" width="40" height="40">
+  <img src="https://www.flaticon.com/free-icon/excel_888850?related_id=888900&origin=search" alt="Excel" width="40" height="40">
   
   <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" alt="Power BI" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
